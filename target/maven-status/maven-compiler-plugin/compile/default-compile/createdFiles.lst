@@ -1,0 +1,16 @@
+com\java\cxf\soap\ws\SubstractAmountResponse.class
+com\java\cxf\soap\ws\Amount.class
+com\java\cxf\soap\ws\DownloadFile.class
+com\cxf\ws\saop\client\AmountServiceClient.class
+com\java\cxf\soap\ws\UploadFile.class
+com\java\cxf\soap\ws\package-info.class
+com\java\cxf\soap\ws\DownloadFileResponse.class
+com\java\cxf\soap\ws\ObjectFactory.class
+com\cxf\ws\saop\client\PasswordCallBackHandler.class
+com\java\cxf\soap\ws\AddAmountResponse.class
+com\java\cxf\soap\ws\FileUpload.class
+com\java\cxf\soap\ws\SubstractAmount.class
+com\java\cxf\soap\ws\AddAmount.class
+com\java\cxf\soap\ws\FileUploadService.class
+com\java\cxf\soap\ws\UploadFileResponse.class
+com\java\cxf\soap\ws\AmountServiceImplService.class
